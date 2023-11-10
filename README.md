@@ -1,1 +1,3 @@
 # Smartbrain-BackEnd
+
+npm install
